@@ -1,0 +1,219 @@
+job_role,city,education_level,experience_years,employment_status,skills,annual_salary_inr
+Python Developer,Hyderabad,B.Tech / B.E.,9,Employed,SQL;Docker;Python;REST API;Django;Git;FastAPI;Problem Solving,2305000
+Data Scientist,Bengaluru,BCA,1.5,Fresher / Job Seeker,Pandas;Deep Learning;NumPy;Machine Learning;Python;Scikit-learn,1195000
+Full Stack Developer,Chennai,B.Tech / B.E.,0.5,Freelancer,SQL;REST API;React,710000
+Frontend Developer,Hyderabad,M.Sc,0.5,Fresher / Job Seeker,HTML;Tailwind CSS;JavaScript;Next.js;React,695000
+Backend Developer,Hyderabad,M.Sc,,Freelancer,Express.js;AWS;Docker;Node.js;SQL;FastAPI,1195000
+Machine Learning Engineer,Mumbai,BCA,9,Employed,FastAPI;NLP;Deep Learning;Scikit-learn;Machine Learning;Docker;AWS;Python;Problem Solving;Git,3200000
+Data Analyst,Pune,B.Tech / B.E.,1.5,Fresher / Job Seeker,Excel;Data Visualization;Power BI;Statistics;Python;Git,665000
+Cloud / DevOps Engineer,Pune,B.Sc,7,Freelancer,Terraform;Docker;Python;Linux;CI/CD;AWS;Kubernetes;Git;Problem Solving,2130000
+Java Developer,Hyderabad,M.Sc,4,Fresher / Job Seeker,REST API;SQL;Git;Java;Docker;PostgreSQL;Spring Boot,1335000
+Android Developer,Mumbai,M.Sc,0,Fresher / Job Seeker,SQL;Kotlin;Java;REST API;Git,565000
+Python Developer,Mumbai,BCA,10,Fresher / Job Seeker,REST API;Django;FastAPI;Python;Docker;SQL;Git;Problem Solving,2010000
+Data Scientist,Hyderabad,B.Tech / B.E.,9,Freelancer,Machine Learning;SQL;Statistics;Pandas;Scikit-learn;NumPy;Deep Learning,2925000
+Full Stack Developer,Delhi NCR,B.Sc,2,Freelancer,Docker;Node.js;Next.js;JavaScript;TypeScript;REST API;Problem Solving;Git,1090000
+Frontend Developer,Delhi NCR,B.Tech / B.E.,0.5,Employed,React;JavaScript;TypeScript;Next.js;Git,770000
+Backend Developer,Mumbai,B.Sc,7,Fresher / Job Seeker,FastAPI;Docker;AWS;SQL;Node.js;Python;Express.js;PostgreSQL,1815000
+Machine Learning Engineer,Bengaluru,B.Sc,8,Employed,AWS;Docker;Deep Learning;Python;Machine Learning;Scikit-learn;FastAPI;Git,3005000
+Data Analyst,Ahmedabad,M.Tech / M.E.,0.5,Freelancer,SQL;Data Visualization;Statistics,530000
+Cloud / DevOps Engineer,Delhi NCR,M.Tech / M.E.,4,Freelancer,CI/CD;Python;Git;AWS;Docker;Terraform;Linux;Kubernetes;Problem Solving,2165000
+Java Developer,Kochi,B.Sc,9,Fresher / Job Seeker,Spring Boot;Git;SQL;Docker;Java;REST API;PostgreSQL;Problem Solving,1500000
+Android Developer,Mumbai,,6,Employed,Kotlin;SQL;Git;Java;REST API;Android SDK;Problem Solving,1685000
+Python Developer,Bengaluru,BCA,0.5,Freelancer,Django;SQL;Docker;Git;FastAPI,725000
+Data Scientist,Chennai,B.Tech / B.E.,0,Fresher / Job Seeker,SQL;NumPy;Deep Learning;Git,755000
+Full Stack Developer,Hyderabad,M.Tech / M.E.,3,Employed,Docker;REST API;Node.js;React;JavaScript,1575000
+Frontend Developer,Hyderabad,M.Tech / M.E.,2,Employed,TypeScript;Git;Next.js;CSS;Problem Solving,1145000
+Backend Developer,Pune,BCA,5,Employed,Node.js;SQL;FastAPI;Express.js;Python;Problem Solving,1430000
+Machine Learning Engineer,Pune,M.Tech / M.E.,9,Freelancer,Python;FastAPI;AWS;Machine Learning;Docker;Scikit-learn;NLP;Deep Learning;Problem Solving,3545000
+Data Analyst,Bengaluru,MCA,1.5,Employed,Python;Statistics;Power BI,820000
+Cloud / DevOps Engineer,Delhi NCR,M.Tech / M.E.,10,Employed,AWS;Docker;Terraform;Kubernetes;CI/CD;Linux;Git;Python;Problem Solving,3585000
+Java Developer,Bengaluru,M.Sc,1.5,Employed,SQL;Git;Spring Boot;REST API;Java;Docker,1085000
+Android Developer,Pune,MCA,8,Fresher / Job Seeker,Git;SQL;Java;Kotlin;REST API;Android SDK;Problem Solving,1610000
+Python Developer,Hyderabad,BCA,4,Employed,FastAPI;REST API;Git;Python;SQL;Docker;Django;Problem Solving,1315000
+Data Scientist,Delhi NCR,MCA,4,Employed,Statistics;Deep Learning;Python;Machine Learning;NumPy;Pandas;SQL;Problem Solving,1960000
+Full Stack Developer,Delhi NCR,M.Sc,8,Freelancer,Node.js;Next.js;Docker;JavaScript;React;TypeScript;SQL;REST API,2260000
+Frontend Developer,Ahmedabad,M.Sc,8,Employed,TypeScript;Tailwind CSS;JavaScript;Git;CSS;Next.js;HTML;React;Problem Solving,1515000
+Backend Developer,Delhi NCR,M.Sc,7,Employed,Docker;SQL;PostgreSQL;Node.js;FastAPI;AWS;Express.js;Python;Problem Solving,2205000
+Machine Learning Engineer,Hyderabad,M.Sc,1.5,Employed,Python;Scikit-learn;Machine Learning;FastAPI;NLP;AWS,1640000
+Data Analyst,Chennai,M.Sc,7,Fresher / Job Seeker,Pandas;Statistics;Power BI;Excel;Python;Data Visualization;SQL;Problem Solving;Git,1265000
+Cloud / DevOps Engineer,Ahmedabad,B.Sc,1.5,Employed,Docker;Terraform;Kubernetes;Git;Python;Linux;Problem Solving,955000
+Java Developer,Delhi NCR,M.Sc,9,Employed,Java;PostgreSQL;Docker;SQL;REST API;Spring Boot;Git;Problem Solving,2295000
+Android Developer,Bengaluru,BCA,4,Freelancer,Java;Git;REST API;Android SDK;Kotlin,1185000
+Python Developer,Kochi,MCA,8,Freelancer,Docker;FastAPI;SQL;Python;REST API;Git;Django,1585000
+Data Scientist,Bengaluru,MCA,4,Employed,Deep Learning;Machine Learning;Scikit-learn;Pandas;Statistics;SQL;Problem Solving;Git,2090000
+Full Stack Developer,,MCA,1.5,Employed,JavaScript;TypeScript;REST API,1080000
+Frontend Developer,Ahmedabad,B.Sc,0.5,Student / Final Year,CSS;Next.js;TypeScript;React;JavaScript;HTML;Git,460000
+Backend Developer,Pune,BCA,8,Freelancer,FastAPI;Python;PostgreSQL;Node.js;Docker;Express.js;SQL;AWS,1835000
+Machine Learning Engineer,Kochi,B.Sc,3,Employed,Python;AWS;NLP;Docker;FastAPI;Machine Learning,1450000
+Data Analyst,Mumbai,M.Sc,1,Fresher / Job Seeker,Statistics;Pandas;Power BI;Data Visualization;Excel,635000
+Cloud / DevOps Engineer,Delhi NCR,B.Tech / B.E.,2,Freelancer,Git;Linux;Python;CI/CD;Kubernetes;Problem Solving,1310000
+Java Developer,Delhi NCR,MCA,10,Employed,SQL;REST API;Git;Java;Docker;PostgreSQL;Spring Boot;Problem Solving,2440000
+Android Developer,Delhi NCR,B.Sc,5,Freelancer,Kotlin;Git;Java;SQL;Android SDK;REST API;Problem Solving,1230000
+Python Developer,Chennai,M.Sc,9,Fresher / Job Seeker,Django;Git;FastAPI;Docker;SQL;REST API;Python;Problem Solving,1805000
+Data Scientist,Mumbai,M.Tech / M.E.,1.5,Freelancer,NumPy;Python;SQL;Machine Learning;Statistics,1440000
+Full Stack Developer,Mumbai,MCA,0,Employed,React;SQL;Next.js;JavaScript;Node.js,750000
+Frontend Developer,Mumbai,B.Tech / B.E.,2,Freelancer,React;HTML;Next.js;JavaScript,925000
+Backend Developer,Pune,B.Tech / B.E.,1.5,Employed,FastAPI;Docker;PostgreSQL;AWS;SQL;Node.js;Problem Solving,1120000
+Machine Learning Engineer,Bengaluru,BCA,9,Employed,NLP;Deep Learning;Docker;Python;Machine Learning;Scikit-learn;AWS;FastAPI;Problem Solving,3385000
+Data Analyst,Ahmedabad,MCA,0,Student / Final Year,Data Visualization;Python;Power BI;SQL;Pandas;Problem Solving;Git,440000
+Cloud / DevOps Engineer,Delhi NCR,M.Sc,0.5,Student / Final Year,Linux;Python;Docker;AWS;Problem Solving,930000
+Java Developer,Pune,M.Sc,0.5,Freelancer,Docker;PostgreSQL;SQL;Git;Spring Boot;Problem Solving,760000
+Android Developer,Chennai,BCA,2,Employed,Android SDK;SQL;Kotlin;Java,785000
+Python Developer,Mumbai,M.Sc,6,Freelancer,SQL;REST API;FastAPI;Git;Python;Docker;Django,1700000
+Data Scientist,Mumbai,MCA,4,Freelancer,Scikit-learn;Deep Learning;NumPy;Python;Pandas;Statistics;SQL;Problem Solving;Git,1915000
+Full Stack Developer,Bengaluru,B.Sc,6,Freelancer,JavaScript;TypeScript;Node.js;React;Next.js;SQL;REST API;Docker;Problem Solving,1925000
+Frontend Developer,Ahmedabad,B.Sc,5,Employed,HTML;Tailwind CSS;React;TypeScript;JavaScript;Git,1055000
+Backend Developer,Hyderabad,M.Sc,0.5,Student / Final Year,PostgreSQL;AWS;SQL;Express.js;FastAPI;Node.js;Git,840000
+Machine Learning Engineer,Kochi,M.Tech / M.E.,7,Fresher / Job Seeker,Machine Learning;Deep Learning;NLP;AWS;Scikit-learn;Python;FastAPI,2435000
+Data Analyst,Ahmedabad,M.Tech / M.E.,5,Fresher / Job Seeker,Python;Pandas;Statistics;Power BI;Excel;Data Visualization;SQL;Git,1010000
+Cloud / DevOps Engineer,Kochi,B.Tech / B.E.,3,Freelancer,Python;Terraform;Git;Docker;CI/CD;AWS;Kubernetes,1450000
+Java Developer,Ahmedabad,B.Tech / B.E.,6,Freelancer,Docker;Spring Boot;PostgreSQL;Git;Java;REST API,1395000
+Android Developer,Kochi,B.Sc,0.5,Fresher / Job Seeker,Java;REST API;Kotlin;Git;SQL;Android SDK,520000
+Python Developer,Hyderabad,M.Sc,0.5,Employed,SQL;Git;Django;Python;FastAPI;Docker,815000
+Data Scientist,Mumbai,M.Tech / M.E.,6,Freelancer,Machine Learning;SQL;Python;NumPy;Pandas;Deep Learning;Statistics,2585000
+Full Stack Developer,Pune,M.Sc,2,Employed,Node.js;SQL;Docker;TypeScript;JavaScript;REST API;React;Git,1240000
+Frontend Developer,Pune,M.Sc,2,Employed,Git;JavaScript;React;HTML;TypeScript;CSS;Tailwind CSS,1005000
+Backend Developer,Kochi,MCA,0,Employed,PostgreSQL;Docker;Node.js;AWS;Express.js;Python,665000
+Machine Learning Engineer,Mumbai,B.Sc,0.5,Employed,FastAPI;Python;Scikit-learn;Deep Learning;Machine Learning;Problem Solving;Git,1205000
+Data Analyst,Mumbai,M.Tech / M.E.,1,Fresher / Job Seeker,Statistics;Pandas;Python;Excel;Power BI,770000
+Cloud / DevOps Engineer,Pune,B.Sc,3,Employed,Docker;Git;Python;CI/CD;Kubernetes;AWS;Terraform;Problem Solving,1520000
+Java Developer,Pune,BCA,4,Employed,Docker;Spring Boot;PostgreSQL;Java;SQL,1260000
+Android Developer,Delhi NCR,B.Sc,0.5,Freelancer,Git;REST API;Kotlin;SQL;Java,595000
+Python Developer,Hyderabad,M.Tech / M.E.,6,Employed,FastAPI;Django;REST API;Docker;Git;Python;SQL,1995000
+Data Scientist,Pune,B.Tech / B.E.,9,Employed,Deep Learning;Pandas;SQL;Machine Learning;Python;NumPy;Statistics;Scikit-learn;Problem Solving;Git,2985000
+Full Stack Developer,Ahmedabad,B.Tech / B.E.,8,Employed,JavaScript;REST API;React;TypeScript;Node.js;SQL;Docker;Problem Solving,1890000
+Frontend Developer,Delhi NCR,M.Tech / M.E.,3,Employed,CSS;Next.js;React;Tailwind CSS,1200000
+Backend Developer,Bengaluru,M.Tech / M.E.,0,Fresher / Job Seeker,SQL;Python;Node.js;Express.js;Problem Solving,755000
+Machine Learning Engineer,Hyderabad,M.Sc,5,Employed,FastAPI;Scikit-learn;Machine Learning;AWS;Python,2340000
+Data Analyst,Pune,M.Sc,8,Employed,Power BI;Pandas;Data Visualization;SQL;Excel;Python;Statistics,1500000
+Cloud / DevOps Engineer,Mumbai,MCA,7,Fresher / Job Seeker,Python;Linux;Git;Kubernetes;CI/CD;Terraform;Docker;AWS,2445000
+Java Developer,Delhi NCR,M.Sc,5,Employed,SQL;PostgreSQL;Docker;REST API;Git;Java;Spring Boot,1635000
+Android Developer,Mumbai,B.Sc,5,Employed,Kotlin;Git;REST API;SQL;Android SDK,1315000
+Python Developer,Chennai,B.Sc,0.5,Freelancer,Docker;Git;FastAPI;Python;SQL,615000
+Data Scientist,Delhi NCR,M.Tech / M.E.,8,Freelancer,SQL;Machine Learning;NumPy;Scikit-learn;Python;Deep Learning;Pandas;Statistics,2995000
+Full Stack Developer,Bengaluru,BCA,8,Employed,React;Docker;SQL;REST API;Node.js;TypeScript;JavaScript;Problem Solving;Git,2335000
+Frontend Developer,Hyderabad,M.Tech / M.E.,9,Employed,HTML;Git;Next.js;Tailwind CSS;TypeScript;JavaScript;React;Problem Solving,2380000
+Backend Developer,Hyderabad,B.Tech / B.E.,1,Employed,Node.js;Express.js;FastAPI,900000
+Machine Learning Engineer,Pune,M.Tech / M.E.,10,Fresher / Job Seeker,Docker;NLP;Python;Deep Learning;AWS;Scikit-learn;Machine Learning;FastAPI;Problem Solving,3495000
+Data Analyst,Delhi NCR,MCA,1.5,Employed,Python;Pandas;SQL;Statistics;Excel;Git,765000
+Cloud / DevOps Engineer,Delhi NCR,BCA,6,Employed,Python;Git;Terraform;AWS;CI/CD;Linux,1995000
+Java Developer,Kochi,BCA,4,Freelancer,Java;PostgreSQL;Git;SQL;REST API;Spring Boot;Docker;Problem Solving,1015000
+Android Developer,Kochi,BCA,0.5,Freelancer,Git;Java;Android SDK;REST API;Kotlin;Problem Solving,510000
+Python Developer,Delhi NCR,MCA,3,Employed,Python;SQL;Django;Git;Docker,1215000
+Data Scientist,Mumbai,B.Sc,5,Freelancer,Statistics;Scikit-learn;Deep Learning;Machine Learning;SQL;Pandas;Python;NumPy,1880000
+Full Stack Developer,Bengaluru,MCA,6,Employed,Docker;Next.js;JavaScript;SQL;React;TypeScript;Node.js;REST API,2200000
+Frontend Developer,Bengaluru,M.Sc,10,Fresher / Job Seeker,Tailwind CSS;CSS;HTML;Next.js;React;JavaScript;Git;TypeScript,2230000
+Backend Developer,Hyderabad,BCA,8,Employed,FastAPI;SQL;AWS;Docker;Node.js;PostgreSQL;Express.js,2095000
+Machine Learning Engineer,Bengaluru,B.Sc,8,Employed,Docker;Python;Scikit-learn;NLP;Deep Learning;Machine Learning;AWS;Problem Solving,3050000
+Data Analyst,Chennai,MCA,8,Freelancer,Statistics;Data Visualization;SQL;Python;Power BI;Excel;Pandas,1400000
+Cloud / DevOps Engineer,Hyderabad,B.Sc,8,Freelancer,AWS;Kubernetes;Python;Docker;Linux;CI/CD;Terraform;Git;Problem Solving,2365000
+Java Developer,Hyderabad,BCA,10,Fresher / Job Seeker,Docker;SQL;REST API;Spring Boot;Git;PostgreSQL;Java;Problem Solving,2030000
+Android Developer,Mumbai,B.Sc,5,Employed,Java;Android SDK;REST API;Git;SQL;Kotlin;Problem Solving,1385000
+Python Developer,Ahmedabad,M.Tech / M.E.,3,Fresher / Job Seeker,FastAPI;Django;Docker;REST API;Python;Git;SQL,1025000
+Data Scientist,Chennai,BCA,0.5,Employed,SQL;Scikit-learn;Deep Learning;Machine Learning;Pandas;Git,930000
+Full Stack Developer,Delhi NCR,M.Sc,3,Employed,JavaScript;Next.js;Node.js;React;TypeScript;REST API;Docker;Git,1520000
+Frontend Developer,Chennai,M.Tech / M.E.,1,Employed,Git;Tailwind CSS;React;HTML;CSS,750000
+Backend Developer,Delhi NCR,M.Tech / M.E.,6,Fresher / Job Seeker,Node.js;Docker;Express.js;AWS;SQL;Python;FastAPI;PostgreSQL,2000000
+Machine Learning Engineer,Hyderabad,M.Sc,7,Fresher / Job Seeker,NLP;Docker;Machine Learning;Deep Learning;FastAPI;Python;Git,2655000
+Data Analyst,Hyderabad,BCA,3,Employed,Power BI;Pandas;SQL;Data Visualization;Git,820000
+Cloud / DevOps Engineer,Hyderabad,MCA,1.5,Employed,Kubernetes;AWS;Git;Linux;Terraform,1415000
+Java Developer,Ahmedabad,B.Sc,5,Employed,Java;Docker;PostgreSQL;Git;Spring Boot;REST API;Problem Solving,1115000
+Android Developer,Pune,BCA,4,Fresher / Job Seeker,Java;Kotlin;Android SDK;REST API;Git;SQL,965000
+Python Developer,Chennai,M.Sc,4,Freelancer,Django;SQL;FastAPI;REST API;Git;Docker;Python,1255000
+Data Scientist,Mumbai,BCA,2,Employed,SQL;Machine Learning;Statistics;Scikit-learn;Problem Solving,1285000
+Full Stack Developer,Ahmedabad,MCA,5,Employed,REST API;React;SQL;JavaScript;Node.js;Docker;TypeScript,1435000
+Frontend Developer,Bengaluru,M.Tech / M.E.,7,Freelancer,TypeScript;JavaScript;React;Git;CSS;Tailwind CSS,1975000
+Backend Developer,Ahmedabad,MCA,3,Freelancer,Express.js;PostgreSQL;AWS;FastAPI;Problem Solving;Git,1080000
+Machine Learning Engineer,Bengaluru,B.Sc,1,Freelancer,Machine Learning;Deep Learning;AWS;NLP;FastAPI;Docker;Problem Solving,1465000
+Data Analyst,Hyderabad,M.Tech / M.E.,0.5,Freelancer,Data Visualization;Power BI;SQL;Python,650000
+Cloud / DevOps Engineer,Pune,MCA,1,Employed,CI/CD;AWS;Docker;Terraform;Linux;Git,1180000
+Java Developer,Chennai,M.Sc,10,Fresher / Job Seeker,REST API;Java;Docker;SQL;Spring Boot;PostgreSQL;Git,1965000
+Android Developer,Chennai,B.Sc,0.5,Freelancer,Git;SQL;Java;Kotlin;REST API;Android SDK,520000
+Python Developer,Hyderabad,BCA,1,Employed,SQL;Django;Docker;Git,745000
+Data Scientist,Hyderabad,MCA,1.5,Fresher / Job Seeker,Machine Learning;Statistics;Deep Learning;NumPy;Python;Git,1295000
+Full Stack Developer,Mumbai,M.Tech / M.E.,8,Fresher / Job Seeker,JavaScript;REST API;Docker;SQL;Node.js;React;TypeScript;Next.js,2520000
+Frontend Developer,Ahmedabad,B.Sc,6,Employed,Git;React;Tailwind CSS;HTML;TypeScript;Next.js;JavaScript;CSS;Problem Solving,1175000
+Backend Developer,Chennai,BCA,1,Employed,SQL;FastAPI;Node.js;Express.js;Python;Problem Solving,740000
+Machine Learning Engineer,Delhi NCR,M.Tech / M.E.,0.5,Employed,AWS;FastAPI;Scikit-learn;NLP;Machine Learning,1485000
+Data Analyst,Chennai,M.Tech / M.E.,10,Employed,Statistics;Power BI;Data Visualization;Python;Excel;SQL;Pandas,1905000
+Cloud / DevOps Engineer,Delhi NCR,BCA,3,Employed,Linux;CI/CD;Git;Python;Problem Solving,1285000
+Java Developer,Mumbai,MCA,9,Employed,SQL;Java;PostgreSQL;Docker;Git;REST API;Spring Boot,2345000
+Android Developer,Pune,BCA,8,Fresher / Job Seeker,Android SDK;Kotlin;REST API;Git;Java;SQL,1455000
+Python Developer,Bengaluru,B.Tech / B.E.,0,Student / Final Year,Docker;FastAPI;REST API;Git;Python,675000
+Data Scientist,Chennai,M.Tech / M.E.,4,Fresher / Job Seeker,Statistics;NumPy;Scikit-learn;Deep Learning;Pandas;Machine Learning;SQL;Git,1795000
+Full Stack Developer,Hyderabad,M.Sc,7,Employed,Docker;React;SQL;Node.js;TypeScript;REST API;Problem Solving,2185000
+Frontend Developer,Kochi,M.Tech / M.E.,8,Employed,React;Git;JavaScript;HTML;TypeScript;Next.js;Tailwind CSS,1745000
+Backend Developer,Ahmedabad,B.Sc,9,Employed,FastAPI;PostgreSQL;Express.js;AWS;Docker;Node.js;Python;SQL,1730000
+Machine Learning Engineer,Pune,BCA,5,Employed,Scikit-learn;FastAPI;Deep Learning;Machine Learning;Docker;AWS,2080000
+Data Analyst,Ahmedabad,MCA,6,Employed,SQL;Statistics;Data Visualization;Power BI;Excel;Python;Pandas;Problem Solving;Git,1130000
+Cloud / DevOps Engineer,Chennai,M.Sc,8,Employed,CI/CD;Docker;Linux;Kubernetes;Terraform;AWS;Git;Python;Problem Solving,2575000
+Java Developer,Delhi NCR,B.Tech / B.E.,0.5,Freelancer,Docker;PostgreSQL;Java;Spring Boot;REST API,765000
+Android Developer,Ahmedabad,M.Sc,8,Employed,Java;Git;Kotlin;REST API;SQL;Android SDK,1535000
+Python Developer,Mumbai,B.Tech / B.E.,4,Freelancer,Git;Django;Python;REST API;SQL;FastAPI,1390000
+Data Scientist,Ahmedabad,M.Tech / M.E.,6,Freelancer,Pandas;Scikit-learn;Python;Machine Learning;SQL;NumPy;Deep Learning;Statistics;Git,2025000
+Full Stack Developer,Pune,BCA,8,Employed,REST API;Docker;Next.js;Node.js;React;JavaScript;TypeScript;SQL;Problem Solving;Git,2055000
+Frontend Developer,Delhi NCR,B.Tech / B.E.,2,Freelancer,Git;Next.js;TypeScript;Tailwind CSS;CSS,950000
+Backend Developer,Chennai,B.Sc,1.5,Employed,AWS;Express.js;Node.js,850000
+Machine Learning Engineer,Pune,B.Sc,0.5,Fresher / Job Seeker,NLP;Machine Learning;AWS;FastAPI;Docker,1010000
+Data Analyst,Ahmedabad,BCA,10,Employed,Data Visualization;Statistics;SQL;Power BI;Python;Excel;Pandas;Git,1350000
+Cloud / DevOps Engineer,Delhi NCR,BCA,6,Employed,Terraform;Python;Linux;CI/CD;AWS;Kubernetes;Git,2145000
+Java Developer,Ahmedabad,B.Tech / B.E.,5,Employed,PostgreSQL;REST API;Java;Git;SQL;Spring Boot;Docker,1360000
+Android Developer,Hyderabad,B.Tech / B.E.,4,Employed,SQL;Kotlin;Git;Android SDK;REST API;Problem Solving,1300000
+Python Developer,Kochi,MCA,4,Freelancer,FastAPI;Python;REST API;SQL;Django;Docker;Git;Problem Solving,1125000
+Data Scientist,Delhi NCR,B.Tech / B.E.,10,Employed,Deep Learning;Statistics;Scikit-learn;NumPy;Pandas;Machine Learning;SQL;Python;Problem Solving,3240000
+Full Stack Developer,Hyderabad,B.Tech / B.E.,10,Freelancer,Next.js;TypeScript;JavaScript;SQL;Node.js;REST API;Docker;React,2660000
+Frontend Developer,Delhi NCR,B.Tech / B.E.,1,Fresher / Job Seeker,HTML;Next.js;Tailwind CSS;CSS;TypeScript,805000
+Backend Developer,Delhi NCR,MCA,1,Fresher / Job Seeker,Docker;Express.js;AWS;Python,895000
+Machine Learning Engineer,Mumbai,B.Sc,8,Freelancer,Python;Deep Learning;Docker;NLP;AWS;Scikit-learn;Machine Learning;FastAPI;Problem Solving,2845000
+Data Analyst,Ahmedabad,M.Tech / M.E.,1.5,Employed,Pandas;Power BI;SQL;Data Visualization,625000
+Cloud / DevOps Engineer,Delhi NCR,MCA,1.5,Employed,Git;Python;Kubernetes;Problem Solving,1190000
+Java Developer,Pune,M.Sc,8,Fresher / Job Seeker,Git;Java;Spring Boot;REST API;PostgreSQL;Docker;SQL;Problem Solving,1825000
+Android Developer,Delhi NCR,B.Sc,0.5,Freelancer,Git;SQL;Android SDK;REST API,605000
+Python Developer,Kochi,M.Sc,6,Employed,Django;Docker;REST API;FastAPI;SQL;Python;Git,1405000
+Data Scientist,Chennai,M.Sc,0,Student / Final Year,Python;Machine Learning;NumPy;Statistics,695000
+Full Stack Developer,Chennai,M.Tech / M.E.,4,Fresher / Job Seeker,Docker;Node.js;SQL;React;REST API;TypeScript,1465000
+Frontend Developer,Mumbai,B.Sc,10,Employed,TypeScript;Tailwind CSS;CSS;HTML;React;Git;JavaScript;Next.js,2055000
+Backend Developer,Bengaluru,B.Tech / B.E.,4,Employed,Node.js;SQL;AWS;Python;Docker;Express.js;Git,1785000
+Machine Learning Engineer,Ahmedabad,B.Sc,5,Employed,AWS;Python;FastAPI;Scikit-learn;Deep Learning;Git,1650000
+Data Analyst,Kochi,M.Tech / M.E.,0.5,Employed,Excel;Pandas;Statistics;Python;Git,560000
+Cloud / DevOps Engineer,Chennai,M.Sc,5,Fresher / Job Seeker,CI/CD;Kubernetes;Terraform;AWS;Linux;Git,1760000
+Java Developer,Bengaluru,B.Sc,1,Employed,Git;PostgreSQL;SQL;Java;REST API;Docker;Problem Solving,910000
+Android Developer,Ahmedabad,MCA,0,Employed,SQL;Git;Kotlin;REST API;Android SDK;Problem Solving,470000
+Python Developer,Kochi,B.Tech / B.E.,2,Employed,REST API;FastAPI;Docker;Django;SQL;Git,945000
+Data Scientist,Hyderabad,BCA,9,Employed,SQL;Pandas;Deep Learning;Python;Machine Learning;Scikit-learn;Statistics,2680000
+Full Stack Developer,Ahmedabad,M.Sc,1.5,Employed,REST API;TypeScript;SQL;Node.js;Next.js;JavaScript;Git,880000
+Frontend Developer,Hyderabad,B.Tech / B.E.,2,Employed,TypeScript;Tailwind CSS;HTML;Git;CSS;JavaScript;Next.js;Problem Solving,1080000
+Backend Developer,Pune,B.Tech / B.E.,1,Employed,Docker;FastAPI;PostgreSQL;SQL;Git,890000
+Machine Learning Engineer,Hyderabad,BCA,7,Employed,Python;Deep Learning;NLP;Docker;FastAPI;AWS;Scikit-learn;Machine Learning;Git,2700000
+Data Analyst,Pune,M.Sc,1,Employed,Power BI;Python;Pandas;Data Visualization;Git,640000
+Cloud / DevOps Engineer,Delhi NCR,B.Sc,8,Freelancer,Git;AWS;Docker;Kubernetes;Python;Terraform;Linux;CI/CD,2350000
+Java Developer,Mumbai,MCA,3,Fresher / Job Seeker,PostgreSQL;SQL;Spring Boot;Git;REST API;Problem Solving,1165000
+Android Developer,Delhi NCR,MCA,4,Employed,Java;Kotlin;Android SDK;Git;SQL;REST API,1300000
+Python Developer,Ahmedabad,MCA,9,Employed,Git;FastAPI;SQL;Django;Python;REST API;Docker,1710000
+Data Scientist,Ahmedabad,BCA,4,Fresher / Job Seeker,Python;Scikit-learn;Machine Learning;NumPy;Deep Learning;Pandas;Statistics;SQL;Problem Solving,1285000
+Full Stack Developer,Kochi,MCA,10,Freelancer,JavaScript;Docker;React;TypeScript;Node.js;Next.js;SQL;REST API,2120000
+Frontend Developer,Mumbai,MCA,0,Freelancer,CSS;HTML;JavaScript;Problem Solving,535000
+Backend Developer,Pune,MCA,5,Employed,SQL;FastAPI;Python;Docker;PostgreSQL;Node.js;AWS;Express.js;Problem Solving,1685000
+Machine Learning Engineer,Chennai,B.Sc,0.5,Student / Final Year,Deep Learning;Scikit-learn;Machine Learning;FastAPI,855000
+Data Analyst,Kochi,B.Sc,1,Employed,Power BI;SQL;Statistics;Excel;Pandas;Python,485000
+Cloud / DevOps Engineer,Hyderabad,BCA,0.5,Student / Final Year,Terraform;Docker;CI/CD;AWS;Kubernetes,1005000
+Java Developer,Chennai,BCA,4,Fresher / Job Seeker,REST API;Java;SQL;Git;Spring Boot;Docker;PostgreSQL,1100000
+Android Developer,Chennai,B.Tech / B.E.,1.5,Employed,Android SDK;Java;Git,745000
+Python Developer,Kochi,M.Sc,1,Freelancer,REST API;SQL;FastAPI;Django;Problem Solving,660000
+Data Scientist,Bengaluru,MCA,0,Freelancer,Pandas;Scikit-learn;Deep Learning;NumPy,965000
+Full Stack Developer,Kochi,B.Sc,5,Freelancer,TypeScript;Node.js;JavaScript;Docker;React;SQL;Problem Solving,1205000
+Frontend Developer,Ahmedabad,BCA,9,Freelancer,React;TypeScript;CSS;Next.js;JavaScript;Tailwind CSS;Git,1355000
+Backend Developer,Delhi NCR,MCA,0,Freelancer,SQL;Docker;Python;FastAPI;AWS;Git,810000
+Machine Learning Engineer,Chennai,B.Sc,7,Freelancer,Deep Learning;AWS;Machine Learning;Docker;Python;FastAPI;Scikit-learn,2190000
+Data Analyst,Pune,MCA,7,Employed,Excel;Power BI;SQL;Python;Data Visualization;Statistics;Git,1370000
+Cloud / DevOps Engineer,Chennai,M.Tech / M.E.,10,Freelancer,Kubernetes;Linux;Terraform;Git;CI/CD;Docker;Python;AWS,3050000
+Java Developer,Pune,B.Sc,3,Freelancer,SQL;REST API;Java;Docker;Git;Spring Boot;PostgreSQL,1040000
+Android Developer,Kochi,M.Tech / M.E.,5,Employed,Java;Git;Android SDK;SQL;REST API;Kotlin,1275000
+Python Developer,Ahmedabad,B.Tech / B.E.,0.5,Student / Final Year,FastAPI;Python;Docker;SQL;Django;Git,630000
+Data Scientist,Pune,B.Tech / B.E.,8,Employed,SQL;Machine Learning;Statistics;Deep Learning;Python;NumPy;Scikit-learn;Pandas;Git,2695000
+Full Stack Developer,Delhi NCR,M.Sc,0.5,Student / Final Year,Docker;JavaScript;REST API;React,745000
+Frontend Developer,Mumbai,M.Sc,0.5,Student / Final Year,React;Tailwind CSS;JavaScript;Next.js;TypeScript;Git,745000
+Backend Developer,Mumbai,B.Sc,8,Employed,Python;PostgreSQL;SQL;Node.js;FastAPI;Docker;AWS;Git,2115000
+Python Developer,Hyderabad,B.Tech / B.E.,9,Employed,SQL;Docker;Python;REST API;Django;Git;FastAPI;Problem Solving,2305000
+Python Developer,Mumbai,BCA,10,Fresher / Job Seeker,REST API;Django;FastAPI;Python;Docker;SQL;Git;Problem Solving,2010000
+Machine Learning Engineer,Pune,M.Tech / M.E.,9,Freelancer,Python;FastAPI;AWS;Machine Learning;Docker;Scikit-learn;NLP;Deep Learning;Problem Solving,3545000

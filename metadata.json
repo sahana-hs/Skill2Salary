@@ -1,0 +1,6 @@
+{
+  "name": "Skill to Salary",
+  "description": "AI-powered skill gap analysis, INR salary prediction, and personalized job recommendation platform for the Indian tech job market.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
